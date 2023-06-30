@@ -1,0 +1,13 @@
+body {
+  margin: 0;
+  font-family: "Rowdies", serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-color: rgba(30, 29, 29, 0.901);
+  color: goldenrod;
+}
+
+code {
+  font-family:Verdana, Geneva, Tahoma, sans-serif,
+    monospace;
+}

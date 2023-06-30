@@ -1,0 +1,49 @@
+.dashboard-nav {
+  display: flex;
+  color: greenyellow;
+  justify-content: space-between;
+  height: 70px;
+  align-items: center;
+}
+
+.dashboard-nav > h3 {
+  font-weight: bolder;
+}
+
+.dashboard-title {
+  text-align: center;
+  margin-top: 20px;
+}
+
+.dashboard-search-container {
+  margin-top: 20px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 30px;
+}
+
+.dashboard-search-container > div {
+  display: flex;
+  gap: 10px;
+  align-items: center;
+}
+
+.dashboard-date-search {
+  margin-top: 20px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 10px;
+}
+
+.expense-income-conatianer {
+  padding: 8px;
+}
+
+.expense-income-conatianer > div {
+  padding: 15px;
+  background-color: #ecf2e8;
+  text-align: center;
+  border-radius: 10px;
+}
